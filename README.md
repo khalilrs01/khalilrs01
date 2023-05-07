@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khalilrs01
 - 👀 I’m interested in the coding Systemverilog, verilog, Embedded C, C++, Python 
 - 🌱 I’m currently learning Python and Sytemverilog
-- 💞️ I’m looking to collaborate on Python and Systemverilog and C++
+- 💞️ I’m looking to collaborate on Python, Systemverilog, verilog, and C++
 - 📫 How to reach me khalil.rs001@gmail.com
 
 <!---
